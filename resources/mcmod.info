@@ -1,0 +1,16 @@
+[
+{
+  "modid": "packedice",
+  "name": "Packed Ice Recipe",
+  "description": "Recipe for Packed Ice.",
+  "version": "0.2",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NarigudoBR"],
+  "credits": "Mommy and Daddy",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
